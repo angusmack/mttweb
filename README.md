@@ -86,3 +86,5 @@ Jan Heise - Alpine.js Navbar
 https://github.com/jan-heise/responsive-navbar-with-dropdown
 
 Made for Hacktoberfest, with ❤️ by NusserStudios.
+
+
